@@ -16,6 +16,6 @@
 | Protocol doesn't support fee-on-transfer tokens | https://github.com/code-423n4/2022-09-vtvl-findings/issues/420 |
 | Use of depracted Chainlink API | https://github.com/code-423n4/2022-10-inverse-findings/issues/191 |
 
-## Contact me
+## Contact me for solo audits
 
 You can reach me on [Twitter](https://twitter.com/djxp1oit), Discord(djxploit#2677) or mail me at [here](mailto:djduttaofficial@gmail.com)
